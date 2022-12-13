@@ -19,6 +19,7 @@
 ![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
 ![sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass)
+![sass](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![gulp](https://img.shields.io/badge/gulp-000?style=for-the-badge&logo=gulp)
 ![javaScript](https://img.shields.io/badge/javaScript-000?style=for-the-badge&logo=javascript)
 ![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
@@ -32,12 +33,12 @@
 
 ##
 
-
-
 #
+
 ### Socials:
 
 [![telegram](https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram)](https://web.telegram.org/k/#@Shaxzod1019)
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/shaxzod__shokirov/)
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaxzod-shokirov-768828235/)
+
 #
