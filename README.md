@@ -41,4 +41,3 @@
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/shaxzod__shokirov/)
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaxzod-shokirov-768828235/)
 #
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaxzod&show_icons=true&theme=dark)](https://github.com/shokirovshaxzod)
