@@ -40,5 +40,5 @@
 [![telegram](https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram)](https://web.telegram.org/k/#@Shaxzod1019)
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/shaxzod__shokirov/)
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaxzod-shokirov-768828235/)
-
+![gmail](https://img.shields.io/badge/shokirovshaxzod32@gmail.com-000?style=for-the-badge&logo=gmail)
 #
