@@ -18,7 +18,7 @@
 
 ![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
-![sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass)
+![sass](https://img.shields.io/badge/sass/scss-000?style=for-the-badge&logo=sass)
 ![sass](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![gulp](https://img.shields.io/badge/gulp-000?style=for-the-badge&logo=gulp)
 ![javaScript](https://img.shields.io/badge/javaScript-000?style=for-the-badge&logo=javascript)
