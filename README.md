@@ -26,9 +26,11 @@
 ![next-js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js)
 
 # My achievements
-
+<details>  
+<summary>Click me</summary> 
 [<img src="https://github.com/shokirovshaxzod/shokirovshaxzod/blob/main/assets/owa.png" alt="not photo" width="400">](https://owa.uz/)
 [<img src="https://github.com/shokirovshaxzod/shokirovshaxzod/blob/main/assets/udemy.jpg" alt="not photo" width="400">](https://www.udemy.com/certificate/UC-78e87f38-ff04-470c-9cab-02620503a56c/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email)
+</details>
 
 ##
 
