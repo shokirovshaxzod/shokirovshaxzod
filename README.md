@@ -1,4 +1,4 @@
-# Shokirov Shaxzod Front-end Dev
+# Shaxzod Shokirov Front-end Dev
 
 ### 🗺️ Uzbekistan 🏙️ City Karshi
 
