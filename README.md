@@ -21,6 +21,7 @@
 ![sass](https://img.shields.io/badge/sass/scss-000?style=for-the-badge&logo=sass)
 ![sass](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![gulp](https://img.shields.io/badge/gulp-000?style=for-the-badge&logo=gulp)
+![pug](https://img.shields.io/badge/pug-000?style=for-the-badge&logo=pug)
 ![javaScript](https://img.shields.io/badge/javaScript-000?style=for-the-badge&logo=javascript)
 ![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
 ![redux](https://img.shields.io/badge/redux-000?style=for-the-badge&logo=redux)
@@ -41,4 +42,5 @@
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/shaxzod__shokirov/)
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaxzod-shokirov-768828235/)
 ![gmail](https://img.shields.io/badge/shokirovshaxzod32@gmail.com-000?style=for-the-badge&logo=gmail)
+
 #
