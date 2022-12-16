@@ -22,6 +22,7 @@
 ![sass](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![gulp](https://img.shields.io/badge/gulp-000?style=for-the-badge&logo=gulp)
 ![pug](https://img.shields.io/badge/pug-000?style=for-the-badge&logo=pug)
+![webpack](https://img.shields.io/badge/webpack-000?style=for-the-badge&logo=webpack)
 ![javaScript](https://img.shields.io/badge/javaScript-000?style=for-the-badge&logo=javascript)
 ![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
 ![redux](https://img.shields.io/badge/redux-000?style=for-the-badge&logo=redux)
